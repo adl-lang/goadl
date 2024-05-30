@@ -4,3 +4,6 @@
 [submodule "goadlc"]
 	path = goadlc
 	url = git@github.com:adl-lang/goadlc.git
+[submodule "goadlc_tests"]
+	path = goadlc_tests
+	url = git@github.com:adl-lang/goadlc_tests.git
