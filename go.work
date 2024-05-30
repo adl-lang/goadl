@@ -2,7 +2,7 @@ go 1.22.1
 
 use (
 	./goadl_rt
-	./goadl_rt/v2
+	./goadl_rt/v3
 	./goadlc
-	./goadlc/out
+	./goadlc_tests
 )
